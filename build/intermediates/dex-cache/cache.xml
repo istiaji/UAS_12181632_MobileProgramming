@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\5cb3c2eed2ef1b4e46d2bc962d6f13f66b87a007\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="E:\Nitip Danang\Nguliah\Semester 3\Mobile Programming\WisataGorontalo\app\build\intermediates\pre-dexed\debug\classes_320d92a3cf3f91c035f1691ce87e9f48bdd9b3bb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\c1c385fcc20c4cdfc6557f11d7ca156685b12b8e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="E:\Nitip Danang\Nguliah\Semester 3\Mobile Programming\WisataGorontalo\app\build\intermediates\pre-dexed\debug\classes_5de7a31e82042ff0faebfe260f08cc6d606c1c94.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\acfa68ddc7af160367ac3a43a88fed07c371887c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="E:\Nitip Danang\Nguliah\Semester 3\Mobile Programming\WisataGorontalo\app\build\intermediates\pre-dexed\debug\classes_baf4092e2e5424497ec71c54a811ff852bacd1d9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\b25b356d1962ac5e76b25f6df69e0c1e2d6fce87\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\Nitip Danang\Nguliah\Semester 3\Mobile Programming\WisataGorontalo\app\build\intermediates\pre-dexed\debug\classes_45bb01fb48f8ad260502d90a93bcca5a6f43cb14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.gradle\daemon\5.4.1\caches\modules-2\files-2.1\com.android.support.constraint\constraint-layout-solver\1.0.2\b9cd8fc6bd15cb915735d34535db30ece0c44603\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="E:\Nitip Danang\Nguliah\Semester 3\Mobile Programming\WisataGorontalo\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_cd024347840c013cdfa206977e9d1f6c7d797eeb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\7c270dbae8b22b21690347408c21b3452b55de3c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="E:\Nitip Danang\Nguliah\Semester 3\Mobile Programming\WisataGorontalo\app\build\intermediates\pre-dexed\debug\classes_ba377b55f0af1ee536a9279426993bfbe9746aec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\167a0c608279f205f65d0c442e9131772d7f643f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="E:\Nitip Danang\Nguliah\Semester 3\Mobile Programming\WisataGorontalo\app\build\intermediates\pre-dexed\debug\classes_ac1feaef63b914b5165354e5988180689159f90c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\75ca22f1d0e9b91455697e26dc2677729cefd8af\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="E:\Nitip Danang\Nguliah\Semester 3\Mobile Programming\WisataGorontalo\app\build\intermediates\pre-dexed\debug\classes_510a08342d9e55164b50946b24bf422e079b8f18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\80c0c012f75cf2866a6d66a3f92ddc853c91ec83\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="E:\Nitip Danang\Nguliah\Semester 3\Mobile Programming\WisataGorontalo\app\build\intermediates\pre-dexed\debug\classes_9f9071b6c040f3aaae47dd1dfdde48214c240093.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\df9019b8d1b5f8c9459944a7466fbfc6a502381a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="E:\Nitip Danang\Nguliah\Semester 3\Mobile Programming\WisataGorontalo\app\build\intermediates\pre-dexed\debug\classes_500a75fa077032fa0d3c4688720509148de5a47e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\cc90af86083345afef23fd183353fc83f21eed60\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="E:\Nitip Danang\Nguliah\Semester 3\Mobile Programming\WisataGorontalo\app\build\intermediates\pre-dexed\debug\classes_267fbd890dbc3c7d97fbbaa43aa012c8c64bb0b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\01e583ef00494699651b8bd8583b8e65d4b776f1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="E:\Nitip Danang\Nguliah\Semester 3\Mobile Programming\WisataGorontalo\app\build\intermediates\pre-dexed\debug\classes_27de1e82e3164e05094b8f4a726bc6b377961877.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\62f8f5c7efc558aadbaa5df547b86f3271df1c7c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="E:\Nitip Danang\Nguliah\Semester 3\Mobile Programming\WisataGorontalo\app\build\intermediates\pre-dexed\debug\classes_475383ba44fe338fa081c3279fc76d4d176b9795.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\a3c95705fdb64113033c1ecba30ccb59f998e65e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="E:\Nitip Danang\Nguliah\Semester 3\Mobile Programming\WisataGorontalo\app\build\intermediates\pre-dexed\debug\classes_674931bed0718d2817c67818d76aa977c2f7b6fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.gradle\daemon\5.4.1\caches\modules-2\files-2.1\com.android.support\support-annotations\25.3.1\bf8841d29fa39e077730e7a91222c2ce269fa7c9\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="E:\Nitip Danang\Nguliah\Semester 3\Mobile Programming\WisataGorontalo\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_e02ac3465e142c3a012db052642afed7915ac413.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\0bedd0e48d1fee798a7665d323f75d122d6f6ee0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="E:\Nitip Danang\Nguliah\Semester 3\Mobile Programming\WisataGorontalo\app\build\intermediates\pre-dexed\debug\classes_b40fd46d1e0b2e5cfa6244d571f2f74484f19eb5.jar" />
+    </item>
+
+</items>
